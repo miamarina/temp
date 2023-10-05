@@ -1,0 +1,8 @@
+###
+GET http://localhost:8080/greeting
+Content-Type: application/json
+
+{
+  "name": "Leo"
+}
+
